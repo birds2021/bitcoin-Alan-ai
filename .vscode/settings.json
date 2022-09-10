@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "off",
+    "files.autoSaveDelay": 500,
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
+    "files.refactoring.autoSave": false
+}
